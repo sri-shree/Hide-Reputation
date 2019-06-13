@@ -1,2 +1,2 @@
 # Hide-Reputation
- Hide StackOverflow reputation  from the top bar,
+ Hide StackOverflow reputation  from the top bar.
